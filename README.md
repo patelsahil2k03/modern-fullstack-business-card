@@ -1,3 +1,5 @@
+A modern, full-stack business card app in NextJS, Typescript, TailwindCSS, tRPC and next-auth! In this T3-stack app with tRPC v10 you can create, publish and share custom generated cards. We generate them using Vercel's new OG image generation library for ideal previews.
+
 # Create T3 App
 
 This is a [T3 Stack](https://create.t3.gg/) project bootstrapped with `create-t3-app`.
